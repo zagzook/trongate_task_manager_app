@@ -5,6 +5,6 @@ $databases = [
         'port' => '3306',
         'user' => 'root',
         'password' => '',
-        'database' => 'task_manager_app'
+        'database' => 'tasks_manager_app'
     ]
 ];
